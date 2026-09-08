@@ -1,0 +1,176 @@
+# Farm Data Use Agreement Template
+
+**Project title:** [Project Name]  
+**Research institution:** [University / Research Group]  
+**Principal investigator:** [Name]  
+**Researcher contact:** [Email / Phone]  
+**Farmer / Farm name:** [Name]  
+**Effective date:** [Date]
+
+## 1. Purpose
+
+This agreement explains how farm data provided by the farmer will be collected, stored, used, shared, and protected for research purposes. The goal is to support transparent and responsible research while protecting the farmer's privacy, confidentiality, and control over their data.
+
+## 2. Data Covered by This Agreement
+
+The farmer may provide some or all of the following data:
+
+- Animal information, such as herd/flock size, breed, age, health, growth, milk, egg, or meat production
+- Feed and nutrition data, such as feed ingredients, nutrient composition, intake, and feeding practices
+- Farm management data, such as housing, production practices, and environmental conditions
+- Sensor or equipment data
+- Economic or production data, if specifically agreed
+- Other data: [Describe]
+
+Only data needed for the approved research project will be collected.
+
+## 3. Data Ownership and Permission to Use
+
+The farmer retains ownership of the original farm data unless otherwise stated in writing.
+
+By signing this agreement, the farmer gives the research team permission to use the agreed data for:
+
+- [Specific research project]
+- Statistical and data analysis
+- Development and evaluation of research models, including machine-learning models when applicable
+- Academic publications, presentations, and educational materials using de-identified or aggregated results
+
+The data will not be sold or used for commercial purposes unless the farmer gives separate written permission.
+
+## 4. Privacy and Confidentiality
+
+The research team will take reasonable steps to protect the identity of the farmer and farm.
+
+- Direct identifiers such as farmer name, farm name, address, phone number, and account numbers will be removed or stored separately when possible.
+- Published results will normally use de-identified or aggregated data.
+- The identity of an individual farm will not be disclosed in publications or presentations without written permission.
+- Access to identifiable farm data will be limited to authorized members of the research team.
+
+## 5. Data Security and Access
+
+Research data will be stored using institution-approved secure systems such as [secure cloud storage / institutional server].
+
+Access will be limited to:  
+[Research team / collaborators / data manager / others]
+
+If data are shared with approved collaborators, they must follow confidentiality and data-protection requirements consistent with this agreement.
+
+If a data-security incident occurs that could reasonably affect the farmer's data, the research team will follow institutional procedures and notify the farmer when appropriate.
+
+## 6. FAIR Data Principles
+
+The research team will manage the research data according to the FAIR principles: Findable, Accessible, Interoperable, and Reusable.
+
+### Findable
+- Data files will have clear names, metadata, and documentation.
+- Datasets will be assigned internal identifiers or persistent identifiers when appropriate.
+- A data inventory will record where the data came from, what variables are included, and how the data were processed.
+
+### Accessible
+- Access conditions will be clearly documented.
+- Sensitive or identifiable farm data will not be publicly released.
+- De-identified datasets may be shared only when permitted by this agreement, institutional policy, and applicable research requirements.
+- Metadata may remain available even when the underlying data must remain restricted.
+
+### Interoperable
+- Data will be stored in commonly used formats when practical, such as CSV.
+- Standard variable names, units, date formats, and documented coding systems will be used when possible.
+- Data dictionaries will explain variables, abbreviations, units, and categories.
+
+### Reusable
+- Data provenance, cleaning steps, transformations, and analytical methods will be documented.
+- Reuse will be limited to purposes allowed by this agreement.
+- Future use outside the agreed research scope will require [new farmer permission / ethics approval / both].
+- De-identified data may be retained for reproducibility for [number] years after project completion, subject to institutional policy.
+
+## 7. Data Quality and Research Use
+
+The research team may clean, standardize, combine, and analyze the farm data for research.
+
+The farmer understands that:
+
+- Research results may not directly improve farm performance.
+- Statistical or machine-learning models can contain uncertainty and error.
+- Research outputs should not automatically be treated as veterinary, financial, or farm-management advice.
+
+## 8. Publications and Presentations
+
+The research team may publish or present results based on the data if individual farms cannot reasonably be identified, unless the farmer has provided written permission for identification.
+
+Where appropriate, publications will describe the data source, methods, limitations, and relevant data-access restrictions.
+
+The farmer may request a non-technical summary of major findings from the project.
+
+## 9. Data Sharing and Future Research
+
+Please select one option:
+
+- [ ] My de-identified data may be reused for future research related to agriculture, animal science, food systems, or nutrition.
+- [ ] My de-identified data may be reused only for research closely related to this project.
+- [ ] My data may not be reused for future research without obtaining my additional permission.
+
+Public release of identifiable farm data is not permitted under this agreement.
+
+## 10. Data Retention and Destruction
+
+The research team will retain the data until [date / number of years], subject to university policy and research-integrity requirements.
+
+After that period, identifiable data will be [securely deleted / archived under restricted access / other: ______].
+
+De-identified research outputs that have already been included in publications, completed analyses, or archived research records may not be removable after publication or formal archiving.
+
+## 11. Withdrawal
+
+The farmer may request that the research team stop collecting new data or stop using identifiable data by contacting [contact person].
+
+The research team will explain what data can still be withdrawn. Data that have already been de-identified, aggregated, published, or incorporated into completed analyses may not always be removable.
+
+## 12. Responsibilities of the Research Team
+
+The research team agrees to:
+
+- Use the data only for permitted purposes
+- Protect confidential information
+- Maintain appropriate documentation
+- Follow applicable university, ethics, and data-security requirements
+- Report findings accurately and transparently
+- Avoid sharing identifiable farm information without permission
+
+## 13. Responsibilities of the Farmer
+
+The farmer agrees to:
+
+- Provide data voluntarily
+- Identify any data that are especially sensitive or restricted
+- Inform the research team of known limitations or unusual features of the data when possible
+- Notify the research team if permission to collect future data is withdrawn
+
+## 14. Questions and Contact Information
+
+Questions about this agreement or the research project may be directed to:
+
+**Researcher:** [Name]  
+**Email:** [Email]  
+**Phone:** [Phone]
+
+**Institutional contact, if applicable:** [Name / Office / Email]
+
+## 15. Agreement
+
+By signing below, both parties confirm that they have reviewed this agreement and understand how the farm data will be used and protected.
+
+**Farmer / Data Provider**
+
+Name: ______________________________  
+Signature: ___________________________  
+Date: _______________________________
+
+**Researcher**
+
+Name: ______________________________  
+Signature: ___________________________  
+Date: _______________________________
+
+---
+
+*Template note: This document is intended as an educational research template and should be reviewed and adapted to institutional, legal, ethics, and data-governance requirements before use.*
